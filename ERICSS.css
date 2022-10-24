@@ -1,11 +1,6 @@
- <!DOCTYPE html>
- <html>
- <head>
 
-</head>
- <body>
- <style>
-   *{ 
+    
+    *{ 
         background-color: rgb(250,250,249);
         }
        @font-face {
@@ -28,6 +23,7 @@
          color: indigo;
          font-size: 30px;
        } 
+             
        }
         td{
         background: #e3a239;   
@@ -59,72 +55,4 @@
        background-color: #d5f11f;
        border-left-color:#44e339;
        border-left: 5px solid red;
-     
- </style>
- <link type= "text/CSS"
- rel="stylesheet" href="CSS/ERICSS.css"/>
-
-
-</head>
- <body> 
- <h1 style = "color: blue;" class="titulo" >Voy a trabajar con CSS</h1>
- <h4 style = "background-color: beige; text-align: center;" >Tengo una tabla</h4>
-  <p>soy un parrafo</p>
-   <table>
-  <thead>
-    <tr>
-       <td>
-         A
-     </td>
-<td>
-         B
-</td>
-<td>
-         C
-</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-    <td class="textoCentrado">
-         1
-    </td>
-    <td class="fondoLila">
-         2
-</td>
-    <td class="textoCentrado fondoLila">
-         3
-</td>
-</tr>
-  <tr>
-  <td id="cuatro">
-         4
-  </td>   
-<td id="cinco">
-         5
-</td>
-<td id="seis" class="textoCentrado fondoLila">
-         6
-</td>
-</tr>
-<td>
-         7
-</td>
-<td>
-         8
-</td>
-<td>
-         9
-</td>
-</tr>
-</tbody>
-</table>
-<p>Soy el segundo parrafo</p>
-</body>
-</tr>
-<tfooter>
-
-</tfooter>
-</table>
- </body>
-</html>
+      
